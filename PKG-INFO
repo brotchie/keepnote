@@ -1,0 +1,41 @@
+Metadata-Version: 1.0
+Name: keepnote
+Version: 0.7.8
+Summary: A cross-platform note taking application
+Home-page: http://keepnote.org
+Author: Matt Rasmussen
+Author-email: rasmus@alum.mit.edu
+License: GPL
+Download-URL: http://keepnote.org/download/keepnote-0.7.8.tar.gz
+Description: 
+                KeepNote is a cross-platform note taking application.  Its features 
+                include:
+                
+                - rich text editing
+                
+                  - bullet points
+                  - fonts/colors
+                  - hyperlinks
+                  - inline images
+                  
+                - hierarchical organization for notes
+                - full text search
+                - integrated screenshot
+                - spell checking (via gtkspell)
+                - backup and restore
+                - HTML export
+            
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Environment :: Console
+Classifier: Environment :: Win32 (MS Windows)
+Classifier: Environment :: X11 Applications
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: Education
+Classifier: Intended Audience :: End Users/Desktop
+Classifier: Intended Audience :: Science/Research
+Classifier: License :: OSI Approved :: GNU General Public License (GPL)
+Classifier: Operating System :: MacOS :: MacOS X
+Classifier: Operating System :: Microsoft :: Windows
+Classifier: Operating System :: POSIX
+Classifier: Programming Language :: Python
